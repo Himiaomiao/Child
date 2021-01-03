@@ -1,0 +1,864 @@
+{
+    "class": {
+        "updata": {
+            "num": "一班",
+            "person": 79,
+            "teacher": "张三",
+            "tctel": "10086",
+            "des": "慛腲櫫鶹"
+        },
+        "classstudent": [
+            {
+                "value": "18003001",
+                "stu_num": "1800300101",
+                "stu_name": "李华",
+                "stu_height": "1.8",
+                "stu_weight": "45",
+                "stu_gu": "蠢🐖1",
+                "stu_gutel": "17807780528",
+                "stu_adress": "桂林电子科技大学"
+            },
+            {
+                "value": "18003002",
+                "stu_num": "1800300101",
+                "stu_name": "李华",
+                "stu_height": "1.8",
+                "stu_weight": "45",
+                "stu_gu": "蠢🐖1",
+                "stu_gutel": "17807780528",
+                "stu_adress": "桂林电子科技大学"
+            },
+            {
+                "value": "18003003",
+                "stu_num": "1800300101",
+                "stu_name": "李华",
+                "stu_height": "1.8",
+                "stu_weight": "45",
+                "stu_gu": "蠢🐖1",
+                "stu_gutel": "17807780528",
+                "stu_adress": "桂林电子科技大学"
+            }
+        ]
+    },
+    "student": {
+        "student": {
+            "student": [
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300102",
+                    "studentName": "笨🐖2",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖2",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003002",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖3",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖4",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003003",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖4",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖4",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003005",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖5",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖5",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003002",
+                    "studentNum": "1800300102",
+                    "studentName": "笨🐖6",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖6",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003006",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖7",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖7",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                },
+                {
+                    "classNum": "18003001",
+                    "studentNum": "1800300101",
+                    "studentName": "笨🐖1",
+                    "studentHeight": "1.8",
+                    "studentWeight": "45",
+                    "studentGd": "蠢🐖1",
+                    "studentGdtel": "17807780528",
+                    "studentAdress": "桂林电子科技大学"
+                }
+            ]
+        }
+    },
+    "searchData": {
+        "searchData": [
+            {
+                "classNum": "19003001",
+                "studentNum": "1800300101",
+                "studentName": "笨🐖1",
+                "studentHeight": "1.8",
+                "studentWeight": "45",
+                "studentGd": "蠢🐖1",
+                "studentGdtel": "17807780528",
+                "studentAdress": "桂林电子科技大学"
+            },
+            {
+                "classNum": "19003001",
+                "studentNum": "1800300101",
+                "studentName": "笨🐖1",
+                "studentHeight": "1.8",
+                "studentWeight": "45",
+                "studentGd": "蠢🐖1",
+                "studentGdtel": "17807780528",
+                "studentAdress": "桂林电子科技大学"
+            },
+            {
+                "classNum": "19003001",
+                "studentNum": "1800300101",
+                "studentName": "笨🐖1",
+                "studentHeight": "1.8",
+                "studentWeight": "45",
+                "studentGd": "蠢🐖1",
+                "studentGdtel": "17807780528",
+                "studentAdress": "桂林电子科技大学"
+            },
+            {
+                "classNum": "19003001",
+                "studentNum": "1800300101",
+                "studentName": "笨🐖1",
+                "studentHeight": "1.8",
+                "studentWeight": "45",
+                "studentGd": "蠢🐖1",
+                "studentGdtel": "17807780528",
+                "studentAdress": "桂林电子科技大学"
+            }
+        ],
+        "delectData": [],
+        "addData": {}
+    },
+    "food": {
+        "food": [
+            {
+                "foodNum": "01010102",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010103",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010101",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010104",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010105",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010106",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010107",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010108",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            },
+            {
+                "foodNum": "01010109",
+                "foodName": "爆炒牛肉",
+                "foodTexture": "香辣",
+                "foodCarft": "爆炒",
+                "foodSuitablemeal": "早餐",
+                "foodIng": "牛肉、香葱、姜、料酒"
+            }
+        ]
+    },
+    "ingredients": {
+        "ingredients": [
+            {
+                "ingNum": "101010",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            },
+            {
+                "ingNum": "1010102",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            },
+            {
+                "ingNum": "1010103",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            },
+            {
+                "ingNum": "1010104",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            },
+            {
+                "ingNum": "1010105",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            },
+            {
+                "ingNum": "1010106",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            },
+            {
+                "ingNum": "1010107",
+                "ingName": "大白菜",
+                "ingDes": "美味"
+            }
+        ]
+    },
+    "utrition": {
+        "nurition": [
+            {}
+        ]
+    },
+    "res": {
+        "classnum": "",
+        "classStudent": [
+            {
+                "stu_num": "18003001",
+                "stu_name": "张三",
+                "stu_age": "18",
+                "stu_height": "1.8",
+                "stu_weight": "50",
+                "stu_class": "18003001",
+                "stu_gu": "王五",
+                "stu_gutel": "1780778-528"
+            },
+            {
+                "stu_num": "18003001",
+                "stu_name": "张三",
+                "stu_age": "18",
+                "stu_height": "1.8",
+                "stu_weight": "50",
+                "stu_class": "18003001",
+                "stu_gu": "王五",
+                "stu_gutel": "1780778-528"
+            }
+        ]
+    },
+    "Teachermenudata": [
+        {
+            "index": "班级管理",
+            "icon": "el-icon-menu",
+            "router": "/home/TCclass",
+            "children": [
+                {
+                    "index": "班级信息",
+                    "icon": "el-icon-s-cooperation",
+                    "router": "/home/TC/studentclass"
+                },
+                {
+                    "index": "班级学生",
+                    "icon": "el-icon-user-solid",
+                    "router": "/home/TC/studentinformation"
+                },
+                {
+                    "index": "班级套餐",
+                    "icon": "el-icon-s-order",
+                    "router": "/home/TC/classpackage"
+                },
+                {
+                    "index": "增加学生",
+                    "icon": "el-icon-circle-plus",
+                    "router": "/home/TC/addstudent"
+                }
+            ]
+        },
+        {
+            "index": "营养套餐",
+            "icon": "el-icon-date",
+            "router": "/home/TCpackage",
+            "children": [
+                {
+                    "index": "营养套餐库",
+                    "icon": "el-icon-collection",
+                    "router": "/home/TC/package"
+                },
+                {
+                    "index": "评价套餐",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/TC/evaluatepack"
+                },
+                {
+                    "index": "套餐统计信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/TC/accountpackage"
+                }
+            ]
+        },
+        {
+            "index": "食材库",
+            "icon": "el-icon-dish",
+            "router": "/home/TCing",
+            "children": [
+                {
+                    "index": "食材信息",
+                    "icon": "el-icon-notebook-1",
+                    "router": "/home/TC/ing"
+                },
+                {
+                    "index": "评价食材",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/TC/evaluateing"
+                },
+                {
+                    "index": "食材统计信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/TC/accounting"
+                }
+            ]
+        },
+        {
+            "index": "食物库",
+            "icon": "el-icon-food",
+            "router": "/home/TCfood",
+            "children": [
+                {
+                    "index": "食物信息",
+                    "icon": "el-icon-notebook-1",
+                    "router": "/home/TC/food"
+                },
+                {
+                    "index": "评价食物",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/TC/evaluatefood"
+                },
+                {
+                    "index": "食物统计信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/TC/accountfood"
+                }
+            ]
+        },
+        {
+            "index": "营养素信息",
+            "icon": "el-icon-s-order",
+            "router": "/home/TC/yingyang"
+        }
+    ],
+    "Guardianmenu": [
+        {
+            "index": "班级信息",
+            "icon": "el-icon-office-building",
+            "router": "/home/gu/class"
+        },
+        {
+            "index": "学生信息",
+            "icon": "el-icon-s-custom",
+            "router": "/home/gu/student"
+        },
+        {
+            "index": "学校食材库",
+            "icon": "el-icon-dish",
+            "router": "/home/GUing",
+            "children": [
+                {
+                    "index": "食材信息",
+                    "icon": "el-icon-reading",
+                    "router": "/home/gu/ing"
+                },
+                {
+                    "index": "食材汇总信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/gu/accounting"
+                }
+            ]
+        },
+        {
+            "index": "学校食物库",
+            "icon": "el-icon-food",
+            "router": "/home/GUfood",
+            "children": [
+                {
+                    "index": "食物信息",
+                    "icon": "el-icon-collection",
+                    "router": "/home/gu/food"
+                },
+                {
+                    "index": "食物汇总信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/gu/accountfood"
+                }
+            ]
+        },
+        {
+            "index": "学校套餐",
+            "icon": "el-icon-files",
+            "router": "/home/GUpackage",
+            "children": [
+                {
+                    "index": "套餐信息",
+                    "icon": "el-icon-collection",
+                    "router": "/home/gu/package"
+                },
+                {
+                    "index": "套餐评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/gu/evaluatepag"
+                }
+            ]
+        }
+    ],
+    "Cookmenu": [
+        {
+            "index": "学生数据统计",
+            "icon": "el-icon-s-data",
+            "router": "/home/cook/accountstudent"
+        },
+        {
+            "index": "食物管理",
+            "icon": "el-icon-dish-1",
+            "router": "/home/COfood",
+            "children": [
+                {
+                    "index": "食物信息",
+                    "icon": "el-icon-collection",
+                    "router": "/home/cook/food"
+                },
+                {
+                    "index": "增加食物",
+                    "icon": "el-icon-circle-plus",
+                    "router": "/home/cook/addfood"
+                },
+                {
+                    "index": "食物信息统计",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/cook/accoutfood"
+                },
+                {
+                    "index": "食物反馈信息",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/cook/backfood"
+                }
+            ]
+        },
+        {
+            "index": "食材库",
+            "icon": "el-icon-date",
+            "router": "/home/COing",
+            "children": [
+                {
+                    "index": "食材信息",
+                    "icon": "el-icon-notebook-1",
+                    "router": "/home/cook/ing"
+                },
+                {
+                    "index": "食材汇总信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/cook/accing"
+                },
+                {
+                    "index": "评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/cook/evaluateing"
+                }
+            ]
+        },
+        {
+            "index": "套餐库",
+            "icon": "el-icon-present",
+            "router": "/home/copag",
+            "children": [
+                {
+                    "index": "套餐列表",
+                    "icon": "el-icon-tickets",
+                    "router": "/home/cook/pag"
+                },
+                {
+                    "index": "套餐汇总",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/cook/accountpag"
+                },
+                {
+                    "index": "评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/cook/evaluatepag"
+                }
+            ]
+        },
+        {
+            "index": "营养素信息",
+            "icon": "el-icon-c-scale-to-original",
+            "router": "/home/cook/yingyang"
+        }
+    ],
+    "Ingmenu": [
+        {
+            "index": "学生数据统计",
+            "icon": "el-icon-s-data",
+            "router": "/home/ing/accountstudent"
+        },
+        {
+            "index": "食材管理",
+            "icon": "el-icon-dish-1",
+            "router": "/home/IGing",
+            "children": [
+                {
+                    "index": "食材信息",
+                    "icon": "el-icon-collection",
+                    "router": "/home/ing/ing"
+                },
+                {
+                    "index": "增加食材",
+                    "icon": "el-icon-circle-plus",
+                    "router": "/home/ing/adding"
+                },
+                {
+                    "index": "食材信息统计",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/ing/accouting"
+                },
+                {
+                    "index": "食材反馈信息",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/ing/backing"
+                }
+            ]
+        },
+        {
+            "index": "食物库",
+            "icon": "el-icon-date",
+            "router": "/home/INGfood",
+            "children": [
+                {
+                    "index": "食物信息",
+                    "icon": "el-icon-notebook-1",
+                    "router": "/home/ing/food"
+                },
+                {
+                    "index": "食物汇总信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/ing/accfood"
+                },
+                {
+                    "index": "评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/ing/evaluatefood"
+                }
+            ]
+        },
+        {
+            "index": "套餐库",
+            "icon": "el-icon-present",
+            "router": "/home/INGpag",
+            "children": [
+                {
+                    "index": "套餐列表",
+                    "icon": "el-icon-tickets",
+                    "router": "/home/ing/pag"
+                },
+                {
+                    "index": "套餐汇总",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/ing/accountpag"
+                },
+                {
+                    "index": "评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/ing/evaluatepag"
+                }
+            ]
+        },
+        {
+            "index": "营养素信息",
+            "icon": "el-icon-c-scale-to-original",
+            "router": "/home/ing/yingyang"
+        }
+    ],
+    "cafmenu": [
+        {
+            "index": "班级信息",
+            "icon": "el-icon-s-data",
+            "router": "/home/caf/classinformation"
+        },
+        {
+            "index": "学生信息",
+            "icon": "el-icon-dish-1",
+            "router": "/home/CAFstu",
+            "children": [
+                {
+                    "index": "学生列表",
+                    "icon": "el-icon-collection",
+                    "router": "/home/caf/student"
+                },
+                {
+                    "index": "学生信息统计",
+                    "icon": "el-icon-circle-plus",
+                    "router": "/home/caf/studentaccount"
+                }
+            ]
+        },
+        {
+            "index": "食物库",
+            "icon": "el-icon-date",
+            "router": "/home/CAFfood",
+            "children": [
+                {
+                    "index": "食物信息",
+                    "icon": "el-icon-notebook-1",
+                    "router": "/home/caf/food"
+                },
+                {
+                    "index": "食物汇总信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/caf/accfood"
+                },
+                {
+                    "index": "评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/caf/evaluatefood"
+                }
+            ]
+        },
+        {
+            "index": "食材库",
+            "icon": "el-icon-date",
+            "router": "/home/CAFing",
+            "children": [
+                {
+                    "index": "食材信息",
+                    "icon": "el-icon-notebook-1",
+                    "router": "/home/caf/ing"
+                },
+                {
+                    "index": "食材汇总信息",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/caf/accing"
+                },
+                {
+                    "index": "评价",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/caf/evaluateing"
+                }
+            ]
+        },
+        {
+            "index": "套餐管理",
+            "icon": "el-icon-present",
+            "router": "/home/INGpag",
+            "children": [
+                {
+                    "index": "套餐列表",
+                    "icon": "el-icon-tickets",
+                    "router": "/home/caf/pag"
+                },
+                {
+                    "index": "套餐汇总",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/caf/accountpag"
+                },
+                {
+                    "index": "增加套餐",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/caf/addpag"
+                },
+                {
+                    "index": "新增配餐",
+                    "icon": "el-icon-s-data",
+                    "router": "/home/caf/addmakepag"
+                },
+                {
+                    "index": "套餐信息反馈",
+                    "icon": "el-icon-edit-outline",
+                    "router": "/home/caf/backpag"
+                }
+            ]
+        },
+        {
+            "index": "营养素信息",
+            "icon": "el-icon-c-scale-to-original",
+            "router": "/home/caf/yingyang"
+        }
+    ]
+}
